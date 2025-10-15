@@ -31,4 +31,5 @@ policyDefaults:
 policies:
   - name: llama-stack-sno
     manifests:
-      - path: basic-model/
+      - path: basic-model-agent/
+      # - path: basic-model/
