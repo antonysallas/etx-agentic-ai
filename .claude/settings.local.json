@@ -3,7 +3,16 @@
     "allow": [
       "Read(//Volumes/EXT_SSD/downloads/**)",
       "Bash(oc:*)",
-      "Bash(oc get configmap:*)"
+      "Bash(oc get configmap:*)",
+      "Bash(source:*)",
+      "Bash(env)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(llama-stack-client agents:*)",
+      "Bash(llama-stack-client toolgroups:*)",
+      "Bash(curl:*)",
+      "Bash(python3:*)"
     ],
     "deny": [],
     "ask": []
