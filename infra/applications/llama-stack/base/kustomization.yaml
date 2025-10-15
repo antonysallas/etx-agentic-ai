@@ -3,4 +3,6 @@ resources:
   # - namespace.yaml
   - configmap.yaml
   - llama-stack.yaml
-  - tavily-secret.yaml
+  - secret-llama-3-2-3b.yaml
+  - secret-llama-4-scout.yaml
+  - secret-tavily.yaml
