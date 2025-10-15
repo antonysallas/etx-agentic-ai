@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//Volumes/EXT_SSD/downloads/**)",
+      "Bash(oc:*)",
+      "Bash(oc get configmap:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
