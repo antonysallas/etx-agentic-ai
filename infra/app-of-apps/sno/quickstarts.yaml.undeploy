@@ -12,7 +12,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/redhat-ai-services/etx-agentic-ai.git
+    repoURL: https://github.com/antonysallas/etx-agentic-ai.git
     targetRevision: main
     path: infra/quickstarts
   destination:
