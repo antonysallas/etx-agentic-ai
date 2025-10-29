@@ -3,7 +3,7 @@ name = "etx-agentic-ai"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 dependencies = [
-  "llama-stack-client==0.2.15",
+  "llama-stack-client==0.3.0",
 ]
